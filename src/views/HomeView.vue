@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Conventry Grove Builders Association Presents..." />
+    <img alt="BALG Cyber Temple Image" src="../assets/BALG_Cyber-Temple.jpg" />
+    <HelloWorld msg="Coventry Grove Builders Association Presents..." />
   </div>
 </template>
 
@@ -16,3 +16,13 @@ export default defineComponent({
   },
 });
 </script>
+
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+.home {
+  background-color: #0d022f;
+}
+</style>

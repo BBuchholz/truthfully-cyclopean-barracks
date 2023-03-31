@@ -18,3 +18,13 @@ export default defineComponent({
   },
 });
 </script>
+
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+.about {
+  background-color: #0d022f;
+}
+</style>
