@@ -1,6 +1,10 @@
 <template>
   <div class="hello">
     <p>
+      Our BA ov LG is
+      <a href="https://anxious-grove.netlify.app/">one of the myriad sites</a>
+    </p>
+    <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
