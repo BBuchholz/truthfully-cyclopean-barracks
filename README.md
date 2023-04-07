@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### IN PROGRESS
+See [BALG SCA Partnership Program Announcement](PLANNING_BALG-SCA_Announcement.md)
