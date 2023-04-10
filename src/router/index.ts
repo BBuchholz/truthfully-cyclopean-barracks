@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import MyriadView from "../views/MyriadView.vue";
+import CoursesView from "../views/CoursesView.vue";
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -12,6 +13,11 @@ const routes: Array<RouteRecordRaw> = [
     path: "/myriad",
     name: "myriad",
     component: MyriadView,
+  },
+  {
+    path: "/courses",
+    name: "courses",
+    component: CoursesView,
   },
   {
     path: "/about",

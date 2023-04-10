@@ -11,8 +11,9 @@ First, need to mimic STS with MyriadView
 
 Then, add CourseView:
 
-	- [ ] add nav page component: CourseView
-		- [ ] copy CourseView from MyriadView in views/ folder
-		- [ ] copy CourseLinks from MyriadLinks in components/ folder
-		- [ ] add CourseView to router/index.ts, see [[STS]]
-		- [ ] add router-link to App.vue, see [[STS]]
+	- added nav page component: CoursesView #balg/done 
+		- copied CoursesView from MyriadView in views/ folder (using "Copy" and "Paste" commands directly in the Explorer Pane of VSCode, renaming the autgenerated copy name, and then updating the content and references as appropriate)
+		- copied CoursesAnnouncement from MyriadLinks in components/ folder
+		- added CoursesView to router/index.ts, see [[STS]]
+		- added router-link to App.vue, see [[STS]]
+		- added [[BALG SCA Blurb]] content to Anouncement page
