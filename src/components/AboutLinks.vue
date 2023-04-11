@@ -4,6 +4,27 @@
       Our BA ov LG is
       <a href="https://anxious-grove.netlify.app/">one of the myriad sites</a>
     </p>
+    <h3>Understanding tha BeeGees</h3>
+    <p>Builders and Generalists</p>
+    <p>
+      Builders Build things and are incentivized for output with quality metrics
+    </p>
+    <p>
+      Generalists organize those things into development paths and try things on
+      paths they haven't built
+    </p>
+    <p>to enter Dev path, complete specific free code camp tutorials</p>
+    <p>
+      claiming rights on all of it, Builders for the things, Generalists for the
+      PLANNING
+    </p>
+    <p>two categories BEACON TO BUILD and PATH TO PURSUE</p>
+    <p>
+      users wanting to be both Generalists and Builders should have two separate
+      personas, to allow a formalized switching of hats and separation of roles
+      (also can offer anonymity, needn't disclose which personas are yours)
+    </p>
+    <h3>Vue Link Start Here</h3>
     <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
