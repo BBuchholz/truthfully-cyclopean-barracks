@@ -4,6 +4,28 @@
       Our BA ov LG is
       <a href="https://anxious-grove.netlify.app/">one of the myriad sites</a>
     </p>
+    <h3>Aspiring Candidates</h3>
+    <p>the first layer in Our BA ov LG</p>
+    <p>
+      completion of the requirements of the AC layer should be followed by
+      selecting a focus of either CBC (Coventry Building Coder) or CGC (Coventry
+      Guidance Coordinator)
+    </p>
+    <p>
+      each of those layers will have requirements that, when met, will open up
+      focus areas that should eventually get into CBGB principles
+    </p>
+    <p>
+      these need not be linear progressions, there should be a diffusion
+      possibility where one can benefit just as much from spreading around
+      (Generalization) or specializing (Building 2 Become)
+    </p>
+    <p>
+      should overlap like circles, and each circle should have Concentrations
+      that define the various Arcs available within said Circle
+    </p>
+    <h3>Lessons WE Learned In Tha CBGB Circle Pit</h3>
+    <p>PUNK ROCK ESOTERICISM (COMING SOON)</p>
     <h3>Understanding tha BeeGees</h3>
     <p>Builders and Generalists</p>
     <p>
